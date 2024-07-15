@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arvind-Kumar-Times
+- 👀 I’m interested in learning 'AI' and 'ML' including Power BI, Python and AWS Azure
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on Power BI
+- 📫 Anyone can reach me at akymg1980@gmail.com
